@@ -6,8 +6,8 @@ proto\PersonOuterClass$1.class
 proto\PersonOuterClass$PersonRequest.class
 proto\PersonGrpc$PersonBaseDescriptorSupplier.class
 proto\PersonOuterClass.class
+Main$1.class
 proto\PersonGrpc$PersonFutureStub.class
-PersonImpl.class
 proto\PersonGrpc$PersonMethodDescriptorSupplier.class
 Main.class
 proto\PersonOuterClass$PersonRequest$Builder.class
